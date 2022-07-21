@@ -1,0 +1,14 @@
+{
+  "resourceName": "cominglecobin",
+  "policyUUID": "9ace9556",
+  "bucketName": "cominglecof86bfd850ee44fc4afb8134673823828",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
